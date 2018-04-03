@@ -282,7 +282,7 @@ array of numbers, or a string of comma separated numbers.
 
 #### max
 
-string
+
 
 The maximum datetime allowed. Value must be a date string
 following the
@@ -294,7 +294,7 @@ Defaults to the end of this year.
 
 #### min
 
-string
+
 
 The minimum datetime allowed. Value must be a date string
 following the
@@ -345,7 +345,7 @@ zero-based index, meaning January's value is `1`, and December's is `12`.
 
 #### pickerFormat
 
-string
+
 
 The format of the date and time picker columns the user selects.
 A datetime input can have one or many datetime parts, each getting their
@@ -365,7 +365,7 @@ See the [Picker API docs](../../picker/Picker) for the picker options.
 
 #### placeholder
 
-string
+
 
 The text to display when there's no date selected yet.
 Using lowercase to match the input attribute
@@ -463,7 +463,7 @@ array of numbers, or a string of comma separated numbers.
 
 #### max
 
-string
+
 
 The maximum datetime allowed. Value must be a date string
 following the
@@ -475,7 +475,7 @@ Defaults to the end of this year.
 
 #### min
 
-string
+
 
 The minimum datetime allowed. Value must be a date string
 following the
@@ -526,7 +526,7 @@ zero-based index, meaning January's value is `1`, and December's is `12`.
 
 #### picker-format
 
-string
+
 
 The format of the date and time picker columns the user selects.
 A datetime input can have one or many datetime parts, each getting their
@@ -546,7 +546,7 @@ See the [Picker API docs](../../picker/Picker) for the picker options.
 
 #### placeholder
 
-string
+
 
 The text to display when there's no date selected yet.
 Using lowercase to match the input attribute
